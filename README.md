@@ -11,10 +11,15 @@
 │   │       ├── ...
 │   │   └── 300ms
 │   │       ├── ...
-├── Raw_data
+├── Lead_Data
 │   ├── 10_1.csv
 │   ├── 10_2.csv
 │   ├── 10_3.csv
+│   ├── ...
+├── Airbag_Data
+│   ├── S1-Airbag.csv
+│   ├── S2-Airbag.csv
+│   ├── S3-Airbag.csv
 │   ├── ...
 ├── FallCatcher [REPO]
 │   ├── Programs
