@@ -1,1 +1,2 @@
-# Automated fall detection and mitigation with wearables
+# Fall Catcher
+## Automated Fall Detection and Mitigation with Wearables
